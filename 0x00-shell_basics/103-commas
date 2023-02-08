@@ -1,2 +1,2 @@
 #!/bin/bash
-la -am && echo ""
+echo -e $(la -ma)'\n'
