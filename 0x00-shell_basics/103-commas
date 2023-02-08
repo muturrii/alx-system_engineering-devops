@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e $(la -ma)'\n'
+echo -e $(ls -pma)'\n'
